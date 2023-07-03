@@ -14,4 +14,15 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>CVE-2017-18640</module>
+        <module>CVE-2022-1471</module>
+        <module>CVE-2022-25857</module>
+        <module>CVE-2022-38749</module>
+        <module>CVE-2022-38750</module>
+        <module>CVE-2022-38751</module>
+        <module>CVE-2022-38752</module>
+        <module>CVE-2022-41854</module>
+    </modules>
+
 </project>
