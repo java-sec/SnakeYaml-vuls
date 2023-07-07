@@ -25,4 +25,12 @@
         <module>CVE-2022-41854</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.9.0</version>
+        </dependency>
+    </dependencies>
+
 </project>
