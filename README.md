@@ -1,9 +1,6 @@
 # Snake Yaml 的漏洞学习
 
-Snake Yaml的一些历史漏洞学习：
-- CVE-2017-18640: 
-
-
+- [CVE-2022-41854](./CVE-2022-41854)
 
 # 一、SnakeYaml是什么
 
